@@ -1,0 +1,182 @@
+@font-face {
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/anton/v23/1Ptgg87LROyAm3Kz-Co.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bellefair';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/bellefair/v14/kJExBuYY6AAuhiXUxG1N-Poy.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/bitter/v28/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(https://fonts.gstatic.com/s/cabin/v26/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alwg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Courgette';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/courgette/v13/wEO_EBrAnc9BLjLQAUk1VvoP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crete Round';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/creteround/v14/55xoey1sJNPjPiv1ZZZrxK170bg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/droidsans/v18/SlGVmQWMvZQIdix7AFxXkHNSaA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/encodesansexpanded/v10/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpolKQM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fjalla One';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/fjallaone/v13/Yq6R-LCAWCX3-6Ky7FAFrOF6lw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gudea';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/gudea/v15/neIFzCqgsI0mp9CI_oU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/hind/v16/5aU69_a8oxmIdGl4AQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Josefin Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/josefinslab/v20/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msR349Lw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/lora/v26/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Marck Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/marckscript/v16/nwpTtK2oNgBA3Or78gapdwuyyCg6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mukta Malar';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/muktamalar/v12/MCoXzAXyz8LOE2FpJMxZqIv_J_A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nothing You Could Do';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/nothingyoucoulddo/v15/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OOnV4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Play';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/play/v17/6aez4K2oVqwIvtU2Gg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poiret One';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/poiretone/v14/UqyVK80NJXN4zfRgbdfbo55cUg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ranga';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/ranga/v17/C8ct4cYisGb28q6FJjg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Slabo 27px';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/slabo27px/v12/mFT0WbgBwKPR_Z4hGN2qgx8D0A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/tangerine/v17/IurY6Y5j_oScZZow4VOxCZZJ.ttf) format('truetype');
+}
